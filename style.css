@@ -1,16 +1,22 @@
-*{
+* {
     margin: 0px;
     padding: 0px;
 }
-.corpo_site{
+
+.corpo_site {
     color: white;
-  background-color: black;
+    background-color: black;
 }
-.cabeçalho{
-   
+
+.cabeçalho {
     text-align: center;
 }
-.paragrafo-introdução{
-   text-align: center;
-   text-align: justify;
+
+.cabeçalho_titulo {
+    font-size: 30px;
+}
+
+.paragrafo-introdução {
+    text-align: center;
+    text-align: justify;
 }
