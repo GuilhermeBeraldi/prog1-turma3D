@@ -13,7 +13,11 @@
 }
 
 .cabeçalho_titulo {
-    font-size: 30px;
+    font-size: 100px;
+}
+
+.cabeçalho_subtitulo{
+    font-size: 40px;
 }
 
 .paragrafo-introdução {
