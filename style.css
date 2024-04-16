@@ -33,5 +33,10 @@
 .paginassecundarias{
     display: inline-block;
     font-size: 20px;
-    justify-content: space-around;
+    padding: 10%;
+}
+.botao_paginassecundarias{
+    padding: 24px;
+    background-color: white;
+    color: black;
 }
