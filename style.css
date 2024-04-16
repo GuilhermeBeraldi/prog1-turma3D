@@ -32,3 +32,7 @@
 .foto_turma{
     width: 100%;
 }
+.paginassecundarias{
+    display: inline-block;
+    font-size: 20px;
+}
