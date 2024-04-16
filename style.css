@@ -35,4 +35,5 @@
 .paginassecundarias{
     display: inline-block;
     font-size: 20px;
+    justify-content: space-around;
 }
