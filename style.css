@@ -19,9 +19,13 @@
 .cabeçalho_subtitulo{
     font-size: 40px;
 }
-
-.paragrafo-introdução {
+.introdução{
     text-align: center;
+    text-align: justify;
+    padding: 15px;
+}
+.paragrafo-introdução {
+    padding: 15px;
     text-align: justify;
     font-size: 30px;
 }
