@@ -30,6 +30,10 @@
 .foto_turma{
     width: 100%;
 }
+.sessao_paginassecundarias{
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+}
 .lista_paginassecundarias{
     display: inline-block;
     font-size: 20px;
@@ -45,11 +49,6 @@
 }
 .div_imagem_desempenho{
     padding: 24px 142px;
-}
-.sessao_paginassecundarias{
-    display: grid;
-    grid-template-columns: 33% 33% 33%;
-
 }
 .foto_desempenho{
 
