@@ -47,7 +47,9 @@
     padding: 24px 142px;
 }
 .sessao_paginassecundarias{
-    
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+
 }
 .foto_desempenho{
 
